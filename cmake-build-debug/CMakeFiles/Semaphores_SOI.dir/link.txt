@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -g   CMakeFiles/Semaphores_SOI.dir/main.cpp.o CMakeFiles/Semaphores_SOI.dir/fifo.cpp.o CMakeFiles/Semaphores_SOI.dir/producers.cpp.o CMakeFiles/Semaphores_SOI.dir/test.cpp.o  -o Semaphores_SOI 
