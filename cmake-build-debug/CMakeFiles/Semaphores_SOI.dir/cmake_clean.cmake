@@ -1,7 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Semaphores_SOI.dir/fifo.cpp.o"
   "CMakeFiles/Semaphores_SOI.dir/main.cpp.o"
-  "CMakeFiles/Semaphores_SOI.dir/producers.cpp.o"
   "CMakeFiles/Semaphores_SOI.dir/test.cpp.o"
   "Semaphores_SOI"
   "Semaphores_SOI.pdb"

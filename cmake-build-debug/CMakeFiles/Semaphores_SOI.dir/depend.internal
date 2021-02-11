@@ -9,10 +9,6 @@ CMakeFiles/Semaphores_SOI.dir/main.cpp.o
  /home/adam/CLionProjects/Semaphores_SOI/main.cpp
  /home/adam/CLionProjects/Semaphores_SOI/monitor.h
  /home/adam/CLionProjects/Semaphores_SOI/test.h
-CMakeFiles/Semaphores_SOI.dir/producers.cpp.o
- /home/adam/CLionProjects/Semaphores_SOI/fifo.h
- /home/adam/CLionProjects/Semaphores_SOI/producers.cpp
- /home/adam/CLionProjects/Semaphores_SOI/producers.h
 CMakeFiles/Semaphores_SOI.dir/test.cpp.o
  /home/adam/CLionProjects/Semaphores_SOI/fifo.h
  /home/adam/CLionProjects/Semaphores_SOI/test.cpp

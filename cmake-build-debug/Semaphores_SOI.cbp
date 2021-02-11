@@ -96,12 +96,6 @@
 		<Unit filename="/home/adam/CLionProjects/Semaphores_SOI/monitor.h">
 			<Option target="Semaphores_SOI"/>
 		</Unit>
-		<Unit filename="/home/adam/CLionProjects/Semaphores_SOI/producers.cpp">
-			<Option target="Semaphores_SOI"/>
-		</Unit>
-		<Unit filename="/home/adam/CLionProjects/Semaphores_SOI/producers.h">
-			<Option target="Semaphores_SOI"/>
-		</Unit>
 		<Unit filename="/home/adam/CLionProjects/Semaphores_SOI/test.cpp">
 			<Option target="Semaphores_SOI"/>
 		</Unit>

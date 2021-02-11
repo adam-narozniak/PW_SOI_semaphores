@@ -6,7 +6,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/adam/CLionProjects/Semaphores_SOI/fifo.cpp" "/home/adam/CLionProjects/Semaphores_SOI/cmake-build-debug/CMakeFiles/Semaphores_SOI.dir/fifo.cpp.o"
   "/home/adam/CLionProjects/Semaphores_SOI/main.cpp" "/home/adam/CLionProjects/Semaphores_SOI/cmake-build-debug/CMakeFiles/Semaphores_SOI.dir/main.cpp.o"
-  "/home/adam/CLionProjects/Semaphores_SOI/producers.cpp" "/home/adam/CLionProjects/Semaphores_SOI/cmake-build-debug/CMakeFiles/Semaphores_SOI.dir/producers.cpp.o"
   "/home/adam/CLionProjects/Semaphores_SOI/test.cpp" "/home/adam/CLionProjects/Semaphores_SOI/cmake-build-debug/CMakeFiles/Semaphores_SOI.dir/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

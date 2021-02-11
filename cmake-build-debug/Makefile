@@ -177,33 +177,6 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/Semaphores_SOI.dir/build.make CMakeFiles/Semaphores_SOI.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-producers.o: producers.cpp.o
-
-.PHONY : producers.o
-
-# target to build an object file
-producers.cpp.o:
-	$(MAKE) -f CMakeFiles/Semaphores_SOI.dir/build.make CMakeFiles/Semaphores_SOI.dir/producers.cpp.o
-.PHONY : producers.cpp.o
-
-producers.i: producers.cpp.i
-
-.PHONY : producers.i
-
-# target to preprocess a source file
-producers.cpp.i:
-	$(MAKE) -f CMakeFiles/Semaphores_SOI.dir/build.make CMakeFiles/Semaphores_SOI.dir/producers.cpp.i
-.PHONY : producers.cpp.i
-
-producers.s: producers.cpp.s
-
-.PHONY : producers.s
-
-# target to generate assembly for a file
-producers.cpp.s:
-	$(MAKE) -f CMakeFiles/Semaphores_SOI.dir/build.make CMakeFiles/Semaphores_SOI.dir/producers.cpp.s
-.PHONY : producers.cpp.s
-
 test.o: test.cpp.o
 
 .PHONY : test.o
@@ -246,9 +219,6 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... producers.o"
-	@echo "... producers.i"
-	@echo "... producers.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"

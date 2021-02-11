@@ -9,10 +9,6 @@ CMakeFiles/Semaphores_SOI.dir/main.cpp.o: ../main.cpp
 CMakeFiles/Semaphores_SOI.dir/main.cpp.o: ../monitor.h
 CMakeFiles/Semaphores_SOI.dir/main.cpp.o: ../test.h
 
-CMakeFiles/Semaphores_SOI.dir/producers.cpp.o: ../fifo.h
-CMakeFiles/Semaphores_SOI.dir/producers.cpp.o: ../producers.cpp
-CMakeFiles/Semaphores_SOI.dir/producers.cpp.o: ../producers.h
-
 CMakeFiles/Semaphores_SOI.dir/test.cpp.o: ../fifo.h
 CMakeFiles/Semaphores_SOI.dir/test.cpp.o: ../test.cpp
 CMakeFiles/Semaphores_SOI.dir/test.cpp.o: ../test.h
